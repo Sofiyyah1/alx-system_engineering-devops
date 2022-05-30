@@ -1,1 +1,1 @@
-Display the content of two file together
+Display the last 10 line
