@@ -1,1 +1,1 @@
- A script that create a file name exactly
+A fill writing into file
