@@ -1,1 +1,1 @@
-Displaying all the lines in the file
+Displaying all lines of the file
